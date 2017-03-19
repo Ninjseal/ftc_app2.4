@@ -143,8 +143,8 @@ public abstract class AutonomousMode extends LinearOpMode {
     // Autonomous function for following the line to the beacon
     protected void followLine() {
         // Line variable
-        double PERFECT_COLOR_VALUE = 0.04;
-        double followPower = -0.2;
+        double PERFECT_COLOR_VALUE = 0.2;
+        double followPower = 0.075;
         // Distance variable
         double dist_init = 20;
         // Flag variable
@@ -156,7 +156,8 @@ public abstract class AutonomousMode extends LinearOpMode {
         double powerRightMotorF = 0.0;
 
         while(opModeIsActive() && !finish) {
-            double correction = (PERFECT_COLOR_VALUE - odsSensor.getLightDetected()) * 5;
+            telemetry.addData("Color Value", odsSensor.getLightDetected());
+            double correction = (PERFECT_COLOR_VALUE - odsSensor.getLightDetected());
 
             // Set the powers so they are no less than .075 and apply to correction
             if (correction <= 0) {
@@ -179,6 +180,7 @@ public abstract class AutonomousMode extends LinearOpMode {
             if(rangeSensor.getDistance(DistanceUnit.CM) <= dist_init) {
                 finish = true;
             }
+            idle();
         }
         stopWheels();
     }
@@ -228,6 +230,7 @@ public abstract class AutonomousMode extends LinearOpMode {
                 }
 
             }
+            idle();
         }
         wait(0.5);
         stopWheels();
@@ -240,6 +243,7 @@ public abstract class AutonomousMode extends LinearOpMode {
         while (opModeIsActive() && (runtime.seconds() < seconds)) {
             telemetry.addData("Time Elapsed: ", "%2.5f S Elapsed", runtime.seconds());
             telemetry.update();
+            idle();
         }
     }
     //Wait
@@ -256,6 +260,7 @@ public abstract class AutonomousMode extends LinearOpMode {
         double  steer;
         double  leftSpeed;
         double  rightSpeed;
+        boolean stop = false;
 
         // Ensure that the opmode is still active
         if (opModeIsActive()) {
@@ -282,8 +287,8 @@ public abstract class AutonomousMode extends LinearOpMode {
             speed = Range.clip(Math.abs(speed), 0.0, 1.0);
             forward(speed);
 
-            // keep looping while we are still active, and BOTH motors are running.
-            while (opModeIsActive() &&
+            // keep looping while we are still active, and all motors are running.
+            while (opModeIsActive() && !stop &&
                     (leftMotorF.isBusy() && rightMotorF.isBusy() && leftMotorB.isBusy() && rightMotorB.isBusy())) {
 
                 // adjust relative speed based on heading error.
@@ -307,6 +312,13 @@ public abstract class AutonomousMode extends LinearOpMode {
 
                 move(leftSpeed,rightSpeed);
 
+                if(Math.abs(leftMotorF.getCurrentPosition()) > Math.abs(newLeftFTarget) ||
+                        Math.abs(rightMotorF.getCurrentPosition()) > Math.abs(newRightFTarget) ||
+                        Math.abs(leftMotorB.getCurrentPosition()) > Math.abs(newLeftBTarget) ||
+                        Math.abs(rightMotorB.getCurrentPosition()) > Math.abs(newRightBTarget)) {
+                    stop = true;
+                }
+
                 // Display drive status for the driver.
                 telemetry.addData("Err/St",  "%5.1f/%5.1f",  error, steer);
                 telemetry.addData("TargetF",  "%7d:%7d",      newLeftFTarget,  newRightFTarget);
@@ -317,6 +329,7 @@ public abstract class AutonomousMode extends LinearOpMode {
                         rightMotorB.getCurrentPosition());
                 telemetry.addData("Speed",   "%5.2f:%5.2f",  leftSpeed, rightSpeed);
                 telemetry.update();
+                idle();
             }
 
             // Stop all motion;
@@ -337,6 +350,7 @@ public abstract class AutonomousMode extends LinearOpMode {
         while (opModeIsActive() && !onHeading(speed, angle, P_TURN_COEFF)) {
             // Update telemetry & Allow time for other processes to run.
             telemetry.update();
+            idle();
         }
     }
     //GyroTurn
@@ -392,6 +406,7 @@ public abstract class AutonomousMode extends LinearOpMode {
         int     newRightFTarget;
         int     newLeftBTarget;
         int     newRightBTarget;
+        boolean stop = false;
 
         // Ensure that the opmode is still active
         if (opModeIsActive()) {
@@ -420,9 +435,16 @@ public abstract class AutonomousMode extends LinearOpMode {
             move(Math.abs(speed), Math.abs(speed));
 
             // keep looping while we are still active, and there is time left, and both motors are running.
-            while (opModeIsActive() &&
+            while (opModeIsActive() && !stop &&
                     (runtime.seconds() < timeoutS) &&
                     (leftMotorF.isBusy() && rightMotorF.isBusy() && leftMotorB.isBusy()) && rightMotorB.isBusy()) {
+
+                if(Math.abs(leftMotorF.getCurrentPosition()) > Math.abs(newLeftFTarget) ||
+                        Math.abs(rightMotorF.getCurrentPosition()) > Math.abs(newRightFTarget) ||
+                        Math.abs(leftMotorB.getCurrentPosition()) > Math.abs(newLeftBTarget) ||
+                        Math.abs(rightMotorB.getCurrentPosition()) > Math.abs(newRightBTarget)) {
+                    stop = true;
+                }
 
                 // Display it for the driver.
                 telemetry.addData("TargetF",  "%7d:%7d",      newLeftFTarget,  newRightFTarget);
@@ -432,6 +454,7 @@ public abstract class AutonomousMode extends LinearOpMode {
                 telemetry.addData("ActualB",  "%7d:%7d",      leftMotorB.getCurrentPosition(),
                         rightMotorB.getCurrentPosition());
                 telemetry.update();
+                idle();
             }
 
             // Stop all motion;
@@ -443,39 +466,50 @@ public abstract class AutonomousMode extends LinearOpMode {
             leftMotorB.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
             rightMotorB.setMode(DcMotor.RunMode.RUN_USING_ENCODER);
 
-            //  sleep(250);   // optional pause after each move
+            sleep(250);   // optional pause after each move
         }
     }
     //EncoderDrive
 
     // Turn using encoder, trigo = 1 for CW and trigo = -1 for CCW
-    public void encoderTurn(double power, int distance, int trigo){
+    public void encoderTurn(double power, int distance){
 
         ///distance = 1680 for 90 degrees
+
+        boolean stop = false;
 
         leftMotorF.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         leftMotorB.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         rightMotorF.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
         rightMotorB.setMode(DcMotor.RunMode.STOP_AND_RESET_ENCODER);
 
-        leftMotorF.setTargetPosition(-distance*trigo);
-        leftMotorB.setTargetPosition(-distance*trigo);
-        rightMotorF.setTargetPosition(distance*trigo);
-        rightMotorB.setTargetPosition(distance*trigo);
+        leftMotorF.setTargetPosition(-distance);
+        leftMotorB.setTargetPosition(-distance);
+        rightMotorF.setTargetPosition(distance);
+        rightMotorB.setTargetPosition(distance);
 
         leftMotorF.setMode(DcMotor.RunMode.RUN_TO_POSITION);
         leftMotorB.setMode(DcMotor.RunMode.RUN_TO_POSITION);
         rightMotorF.setMode(DcMotor.RunMode.RUN_TO_POSITION);
         rightMotorB.setMode(DcMotor.RunMode.RUN_TO_POSITION);
 
-        leftMotorF.setPower(Range.clip(power*trigo, -1, 1));
-        rightMotorF.setPower(Range.clip(power*trigo, -1, 1));
-        leftMotorB.setPower(Range.clip(-power*trigo, -1, 1));
-        rightMotorB.setPower(Range.clip(-power*trigo, -1, 1));
+        leftMotorF.setPower(Range.clip(power, -1, 1));
+        rightMotorF.setPower(Range.clip(power, -1, 1));
+        leftMotorB.setPower(Range.clip(-power, -1, 1));
+        rightMotorB.setPower(Range.clip(-power, -1, 1));
 
 
-        while(opModeIsActive() && leftMotorF.isBusy() && leftMotorB.isBusy() && rightMotorF.isBusy() && rightMotorB.isBusy()){
+        while(opModeIsActive() && !stop && leftMotorF.isBusy() && leftMotorB.isBusy() && rightMotorF.isBusy() && rightMotorB.isBusy()){
             //wait until target position is reached
+
+            if(Math.abs(leftMotorF.getCurrentPosition()) > Math.abs(distance) ||
+                    Math.abs(rightMotorF.getCurrentPosition()) > Math.abs(distance) ||
+                    Math.abs(leftMotorB.getCurrentPosition()) > Math.abs(distance) ||
+                    Math.abs(rightMotorB.getCurrentPosition()) > Math.abs(distance)) {
+                stop = true;
+            }
+
+            idle();
         }
 
         // Stop the wheels
@@ -534,8 +568,9 @@ public abstract class AutonomousMode extends LinearOpMode {
 
         throwMotor.setPower(power);
 
-        while(throwMotor.isBusy()) {
+        while(opModeIsActive() && throwMotor.isBusy()) {
             //wait until target position is reached
+            idle();
         }
 
         throwMotor.setPower(0);
