@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\9105ef863723be844c35be8b1dd5bc6ffe3ea5a8\\output\\res\\menu\\main_menu.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\25c6991df620a783da9908407b3c0d5509c95d7b\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\c397d047eccd1773c26a7b35a16212114db0c572\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\9115d0add25243dd3dc726a49700132c4e6309c7\\output\\res\\menu\\main_menu.xml"
+    }
+]

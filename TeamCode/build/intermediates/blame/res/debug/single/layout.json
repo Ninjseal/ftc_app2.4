@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_outputs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\analog_outputs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config_wifi_direct.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\digital_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\digital_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\pwms.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\pwms.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\matrix_devices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\matrix_devices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\device_interface_module.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\device_interface_module.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\i2c_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\i2c_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\port_attached_row.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\port_attached_row.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\digital_devices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\digital_devices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\orange_warning.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\orange_warning.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\banner_parent.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\banner_parent.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_programming_mode.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\c397d047eccd1773c26a7b35a16212114db0c572\\output\\res\\layout\\activity_programming_mode.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_configuration.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inspection.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\9115d0add25243dd3dc726a49700132c4e6309c7\\output\\res\\layout\\activity_inspection.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor_list.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\motor_list.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\file_info.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\file_info.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\pwm_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\pwm_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swap_usb_devices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\file_info.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\file_info.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\loading_indicator_overlay.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\4bebecfe648e11f06b740a91d01e444fede56c56\\output\\res\\layout\\loading_indicator_overlay.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo_list.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\servo_list.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_inspection.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\9105ef863723be844c35be8b1dd5bc6ffe3ea5a8\\output\\res\\layout\\activity_inspection.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\banner_parent.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\banner_parent.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_parent.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\item_list_parent.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\darker_gray_line.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\darker_gray_line.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_inputs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\analog_inputs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\shape.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\shape.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\pwm_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\pwm_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_programming_mode.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\25c6991df620a783da9908407b3c0d5509c95d7b\\output\\res\\layout\\activity_programming_mode.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_wifi_channel_selector.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blocks.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\c397d047eccd1773c26a7b35a16212114db0c572\\output\\res\\layout\\activity_blocks.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_configuration.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_ftc_configuration.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\i2cs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\i2cs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\i2c_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\i2c_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\button_list.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\button_list.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\matrices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\matrices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\info_button.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\info_button.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_inputs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\analog_inputs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_swap_usb_devices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_swap_usb_devices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_blocks.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\25c6991df620a783da9908407b3c0d5509c95d7b\\output\\res\\layout\\activity_blocks.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_logs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_view_logs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo_controller_banner.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\servo_controller_banner.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\matrices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\matrices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\matrix_devices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\matrix_devices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\shape.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\shape.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\port_attached_row.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\port_attached_row.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\pwms.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\pwms.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_controller.xml",
+        "source": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\layout\\activity_ftc_controller.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\motor.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\info_button.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\info_button.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\red_line.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\red_line.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\template_info.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\template_info.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configure_from_template.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_configure_from_template.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\digital_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\digital_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo_list.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\servo_list.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\item_list_parent.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\item_list_parent.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\simple_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\simple_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\device_interface_module.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\device_interface_module.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\servo.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\servo.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\servo_controller_banner.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\servo_controller_banner.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_output_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\analog_output_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_controller.xml",
+        "source": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\layout\\activity_ftc_controller.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\legacy.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\legacy.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\motor.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor_controller_banner.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\motor_controller_banner.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\i2cs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\i2cs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\legacy.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\legacy.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\button_list.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\button_list.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\red_line.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\red_line.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_configure_from_template.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_configure_from_template.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_input_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\analog_input_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\template_info.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\template_info.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\simple_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\simple_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_load.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_load.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\digital_devices.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\digital_devices.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_config_wifi_direct.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_config_wifi_direct.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\darker_gray_line.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\darker_gray_line.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\header.xml",
+        "source": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\layout\\header.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor_list.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\motor_list.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_input_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\analog_input_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\orange_warning.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\orange_warning.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_view_logs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\activity_view_logs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\activity_ftc_wifi_channel_selector.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\activity_ftc_wifi_channel_selector.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\motor_controller_banner.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\motor_controller_banner.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_outputs.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\layout\\analog_outputs.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\analog_output_device.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\layout\\analog_output_device.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\TeamCode\\build\\intermediates\\res\\merged\\debug\\layout\\loading_indicator_overlay.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\333a72c7872a067d893e5451a9046ee5e10933a5\\output\\res\\layout\\loading_indicator_overlay.xml"
+    }
+]

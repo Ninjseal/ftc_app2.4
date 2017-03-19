@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9legacybot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\xml\\k9legacybot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\src\\main\\res\\xml\\preferences.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\xml\\pushbot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\squarebot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\xml\\squarebot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\xml\\pushbotsens.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\k9usbbot.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\1c874bcdc2e17a0f67f9313968b436a757a60d10\\output\\res\\xml\\k9usbbot.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\device_filter.xml",
+        "source": "F:\\Git_Repo\\ftc_app2.4\\FtcRobotController\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "F:\\Git_Repo\\ftc_app-master\\FtcRobotController\\build\\intermediates\\res\\merged\\debug\\xml\\pushbotsens.xml",
+        "source": "C:\\Users\\Marius\\.android\\build-cache\\d5961062c4a00ef4bfc3a26f6c2c659d20f864dc\\output\\res\\xml\\pushbotsens.xml"
+    }
+]
